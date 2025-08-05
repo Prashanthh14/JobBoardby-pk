@@ -6,9 +6,9 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: 'Inter', sans-serif; /* ⭐️ NEW FONT */
     margin: 0;
-    background-color: #fafafa;
+    background-color: #f8f9fa; /* Slightly different background */
     color: var(--dark-gray);
 }
 
@@ -46,7 +46,8 @@ header h1 {
 }
 
 .job-card:hover {
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    transform: translateY(-5px); /* ⭐️ NEW 'LIFT' EFFECT */
 }
 
 .job-details {
@@ -95,4 +96,27 @@ footer {
     padding: 2rem 0;
     color: #777;
     margin-top: 2rem;
+}
+/* ⭐️ NEW: SEARCH BAR STYLES ⭐️ */
+.search-container {
+    margin-top: -1rem; /* Pull it a bit closer to the header */
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+#search-bar {
+    width: 100%;
+    padding: 15px 20px 15px 45px; /* Add padding for the icon */
+    font-size: 1rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    box-sizing: border-box; /* Important for padding and width */
+}
+
+.search-container .fa-search {
+    position: absolute;
+    top: 50%;
+    left: 35px; /* Adjust as needed */
+    transform: translateY(-50%);
+    color: #aaa;
 }
