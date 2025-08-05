@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "title": "Software Engineer Intern (Fall 2025)",
+      "company": "Tech Innovators Inc.",
+      "location": "Chicago, IL (Hybrid)",
+      "sponsorship": "CPT/OPT Friendly",
+      "postedDate": "2025-08-04",
+      "applyLink": "#"
+    },
+    {
+      "title": "Data Analyst (Full-Time)",
+      "company": "Global Data Corp",
+      "location": "New York, NY",
+      "sponsorship": "Visa Sponsorship Available",
+      "postedDate": "2025-08-03",
+      "applyLink": "#"
+    },
+    {
+      "title": "Marketing Assistant (Internship)",
+      "company": "Creative Solutions",
+      "location": "Remote",
+      "sponsorship": "CPT/OPT Friendly",
+      "postedDate": "2025-08-02",
+      "applyLink": "#"
+    }
+  ]
+}
