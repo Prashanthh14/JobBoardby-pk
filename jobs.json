@@ -1,6 +1,14 @@
 {
   "jobs": [
     {
+      "title": "Data Engineer",
+      "company": "JPMorgan Chase (JPMC)",
+      "location": "Remote",
+      "sponsorship": "Visa Sponsorship Available",
+      "postedDate": "2025-08-05",
+      "applyLink": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210651417?utm_medium=jobboard&utm_source=LinkedIn"
+    },
+    {
       "title": "Software Engineer Intern (Fall 2025)",
       "company": "Tech Innovators Inc.",
       "location": "Chicago, IL (Hybrid)",
@@ -25,4 +33,5 @@
       "applyLink": "#"
     }
   ]
+
 }
