@@ -2,11 +2,11 @@
   "jobs": [
     {
       "title": "GCP & Hadoop Data Engineer",
-      "Company" : "prodapt",
+      "company" : "prodapt",
       "location": "Texas",
       "sponsorship": "Visa Sponsorship Available",
-      "date posted": "2025-08-05",
-      "applylink": "https://careers.prodapt.com/jobs/17473?lang=en-us&mode=apply&iis=LinkedIn"
+      "posteddate": "2025-08-05",
+      "applyLink": "https://careers.prodapt.com/jobs/17473?lang=en-us&mode=apply&iis=LinkedIn"
     },
     {
       "title": "Data Engineer",
@@ -43,6 +43,7 @@
   ]
 
 }
+
 
 
 
